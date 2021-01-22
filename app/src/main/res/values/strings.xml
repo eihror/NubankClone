@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LearningJetpack</string>
+    <string name="pix">Pix</string>
+    <string name="payment">Pagar</string>
+    <string name="invite_friends">Indicar Amigos</string>
+    <string name="transfer">Transferir</string>
+    <string name="deposit">Depositar</string>
+    <string name="loan">Empréstimos</string>
+    <string name="virtual_card">Cartão virtual</string>
+    <string name="mobile_recharge">Recarga de celular</string>
+    <string name="adjust_limit">Ajustar limite</string>
+    <string name="block_card">Bloquear cartão</string>
+</resources>
